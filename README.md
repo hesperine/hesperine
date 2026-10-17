@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  I like games, good stories, and building useful little tools.<br />
+  I like games, good stories, and building useful little tools.
   Small web projects and automations for everyday things.
 </p>
 
