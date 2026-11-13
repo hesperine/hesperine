@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img width="400" align="top" src="https://github-readme-stats.vercel.app/api?username=hesperine&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&card_width=440&custom_title=GitHub%20Stats&disable_animations=true" alt="GitHub statistics" />
-  <img width="400" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesperine&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=007ACC&card_width=440&disable_animations=true" alt="Languages in public repositories" />
+  <img width="400" align="top" src="https://github-stats-extended.vercel.app/api?username=hesperine&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&card_width=440&custom_title=GitHub%20Stats&disable_animations=true" alt="GitHub statistics" />
+  <img width="400" align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=hesperine&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=007ACC&card_width=440&disable_animations=true" alt="Languages in public repositories" />
 </p>
 
